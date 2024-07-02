@@ -1,4 +1,4 @@
-![M logo](https://github.com/Martenelias/Martenelias/assets/124877606/8b230955-4cf7-4488-b7ca-382986cd14d2 | width=100)
+![M logo](https://github.com/Martenelias/Martenelias/assets/124877606/8b230955-4cf7-4488-b7ca-382986cd14d2 =250x250)
 
 
 
