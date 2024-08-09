@@ -11,6 +11,6 @@ an aspiring web developer passionate about creating web applications and continu
 Im currently expanding my knowledge in  
 - JavaScript
 - Git
-- SCSS
-- And More...
-- 
+- SASS
+- Nodejs
+- MySQL 
